@@ -1,3 +1,4 @@
+import java.util.*;
 import java.util.Scanner;
 public static void main(Strings[]args){
   Scanner sc = new Scanner(System.in);
