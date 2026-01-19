@@ -1,7 +1,8 @@
 import java.util.*;
 import java.util.Scanner;
-public static void main(Strings[]args){
-  public class AttendanceStatusEvaluator{
+ class AttendanceStatusEvaluator{
+public static void main(Strings[]args)
+
     
     Scanner sc = new Scanner(System.in);
     int Attendance=sc.nextInt();
@@ -15,6 +16,6 @@ public static void main(Strings[]args){
       System.out.println("Poor");
     }
 }
-}
+
 
   
